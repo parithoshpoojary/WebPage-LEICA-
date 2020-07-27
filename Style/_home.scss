@@ -33,6 +33,16 @@ ul{
         padding: 0.6rem 3rem;
         border-radius: 1.4rem;
     }
+    ul .login:hover{
+        background: #585858;
+        color: #F54538
+    }
+    ul .specs:hover{
+        color: #585858;
+    }
+    ul .products:hover{
+        color: #585858;
+    }
 }
 .Showcase{
     display: grid;

@@ -120,6 +120,19 @@ nav .login {
   border-radius: 1.4rem;
 }
 
+nav ul .login:hover {
+  background: #585858;
+  color: #F54538;
+}
+
+nav ul .specs:hover {
+  color: #585858;
+}
+
+nav ul .products:hover {
+  color: #585858;
+}
+
 .Showcase {
   display: -ms-grid;
   display: grid;
