@@ -1,0 +1,19 @@
+.soon {
+    background: black;
+    min-height: 80vh;
+    position: relative;
+    z-index: 0;
+    img,.circle,
+    h2 {
+      position: absolute;
+      top: 20%;
+      left: 15%;
+      transform: translate(-20%, -15%);
+    }
+    .circle {
+      z-index: -1;
+    }
+    h2 {
+      bottom: 50%;
+    }
+  }
