@@ -1,4 +1,4 @@
-# WEBPAGE FROTNEND DESIGN
+## Web Page - ("LEICA")
 
 Built a webpage, based on a camera based company named "LEICA". I have achived this using HTML,CSS,SASS & SCSS.
 
